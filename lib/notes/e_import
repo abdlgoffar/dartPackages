@@ -1,0 +1,4 @@
+//setelah berhasil menambahkan sebuah library/dependency maka untuk menggunakan code library/dependency tersebut
+//harus di import terlebih dahulu.
+
+//untuk mengetahui cara import code library/dependency lihat di package lib file hello.dart

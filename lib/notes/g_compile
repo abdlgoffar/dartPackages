@@ -1,0 +1,6 @@
+
+
+//Native Platform merupakan cara compile aplikasi dengan target perangkat mobile atau desktop.
+//Dart menyertakan Dart VM dengan just-in-time (JIT) compilation dan ahead-of-time (AOT) untuk memproduksi kode mesin.
+
+//untuk melakukan compile native platform atau kusus perangkat mobile atau desktop cukup menggunakan command: dart compile exe bin/file_name.dart -o app

@@ -1,0 +1,4 @@
+//import alias digunakan untuk melakukan alias pada file import untuk menghindari conflict pada saat terdapat nama file
+//class, method pada sebuah library/dependency.
+
+//untuk mengetahui cara penggunaan import alias lihat di package library file hello2.dart

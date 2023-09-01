@@ -1,0 +1,5 @@
+//setelah dilakukan configurasi penambahan sebuah library/dependency pada file 'pubspec.yaml'
+//maka untuk mendownload library tersebut cukup menggunakan command: dart pub get
+
+
+//apabila download berhasil maka semua hasil download akan tersimpan di local path computer C:\Users\abd.goffar\.pub-chace\

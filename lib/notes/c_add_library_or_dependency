@@ -1,0 +1,2 @@
+//apabila kita ingin menambah library atau dependency kita cukup menambahkannya pada file 'pubspec.yaml'
+//untuk mengetahui cara penambahan library/dependency lihata di file 'pubspec.yaml' baris 10 sampai 15, disana terdapat cara penambahan sebuah library dari github

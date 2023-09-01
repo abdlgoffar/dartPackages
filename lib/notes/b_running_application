@@ -1,0 +1,3 @@
+//untuk menjalankan project applikasi bisa menggunakan perintah command: dart run
+
+//Atau jika ingin menjalankan program secara spesifik file cukup dengan memasuki path/folder bin, lalu pilih nama file yg spesifik dan gunakan perintah command: dart example.dart
